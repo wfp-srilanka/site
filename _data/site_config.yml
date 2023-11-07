@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Sri Lanka
+  adjective: Sri Lanka
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: jeff.wagg@wfp.org
+  suggestions: jeff.wagg@wfp.org
+  functional: jeff.wagg@wfp.org
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -79,18 +79,16 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Publications
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      These are publications related to our work. 
     include: ''
     button_label: Read more
     button_link: 'https://example.com'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: Useful Reseources
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      Some further resources.  
     include: ''
     button_label: Read more
     button_link: 'https://example.com'
